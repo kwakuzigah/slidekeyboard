@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:orientation="horizontal" android:background="@drawable/keyboard_popuppanelbackground">
+	<com.asigbe.slidekeyboardpro.SlideKeyboardView
+		android:id="@+id/popupKeyboardView" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:background="@android:color/transparent"
+		android:layout_alignParentBottom="true" style="@style/SlideKeyboardStyle">
+	</com.asigbe.slidekeyboardpro.SlideKeyboardView>
+	<ImageButton android:id="@+id/closeButton"
+		android:background="@android:color/transparent" android:src="@drawable/keyboard_popup_closebutton"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_gravity="top" android:layout_marginLeft="8dp"
+		android:clickable="true" />
+</LinearLayout>

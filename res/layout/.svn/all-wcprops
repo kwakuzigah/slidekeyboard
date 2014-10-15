@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/slidekeyboard/!svn/ver/156/trunk/res/layout
+END
+labeled_icon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/slidekeyboard/!svn/ver/82/trunk/res/layout/labeled_icon.xml
+END
+choose_keyboard_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/slidekeyboard/!svn/ver/152/trunk/res/layout/choose_keyboard_type.xml
+END
+skin_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/slidekeyboard/!svn/ver/134/trunk/res/layout/skin_layout.xml
+END
+explanation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/slidekeyboard/!svn/ver/156/trunk/res/layout/explanation.xml
+END
+choose_keyboard_skin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/slidekeyboard/!svn/ver/156/trunk/res/layout/choose_keyboard_skin.xml
+END
+keyboardview_for_old_version.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/slidekeyboard/!svn/ver/152/trunk/res/layout/keyboardview_for_old_version.xml
+END
+popupkeyboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/slidekeyboard/!svn/ver/152/trunk/res/layout/popupkeyboard.xml
+END
+how_does_it_work.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/slidekeyboard/!svn/ver/156/trunk/res/layout/how_does_it_work.xml
+END
+contact_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/slidekeyboard/!svn/ver/106/trunk/res/layout/contact_layout.xml
+END
+keypreview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/slidekeyboard/!svn/ver/150/trunk/res/layout/keypreview.xml
+END
+keyboardview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/slidekeyboard/!svn/ver/152/trunk/res/layout/keyboardview.xml
+END
+get_dictionaries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/slidekeyboard/!svn/ver/152/trunk/res/layout/get_dictionaries.xml
+END
+candidate_preview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/slidekeyboard/!svn/ver/86/trunk/res/layout/candidate_preview.xml
+END
+candidates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/slidekeyboard/!svn/ver/152/trunk/res/layout/candidates.xml
+END

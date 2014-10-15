@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+	<!-- Default styles -->
+	<style name="SlideKeyboardStyle" parent="@android:style/Widget.KeyboardView">
+		<item name="android:labelTextSize">14dip</item>
+		<item name="android:keyTextSize">18dip</item>
+		<item name="android:keyBackground">@drawable/keyboard_key_button
+		</item>
+		<item name="android:keyPreviewLayout">@layout/keypreview
+		</item>
+		<item name="android:keyTextColor">#d9d9d9</item>
+		<item name="android:shadowColor">#BB000000</item>
+		<item name="android:shadowRadius">0.25</item>
+		<item name="android:background">#BB000000</item>
+		<item name="android:textStyle">normal</item>
+		<item name="centerTextColor">#d9d9d9</item>
+		<item name="permanentBackgroundColor">#ff000000</item>
+		<item name="temporaryBackgroundColor">#DD2661a4</item>
+		<item name="figureStyle">normal</item>
+		<item name="lineStyle">normal</item>
+		<item name="leaveSpaceWhenNoLetter">true</item>
+	</style>
+	<style name="KeyboardStyle">
+		<item name="android:verticalGap">0px</item>
+		<item name="android:horizontalGap">0px</item>
+		<item name="android:keyWidth">23%p</item>
+		<item name="android:keyHeight">75dip</item>
+		<item name="fillScreenWidth">true</item>
+	</style>
+	<style name="GestureOverlayStyle" parent="android:style/Widget.GestureOverlayView">
+		<item name="android:gestureColor">#aad9cd0f</item>
+		<item name="android:gestureStrokeType">single</item>
+		<item name="android:uncertainGestureColor">#aa7d8282</item>
+		<item name="android:fadeOffset">50</item>
+		<item name="android:fadeEnabled">true</item>
+		<item name="android:gestureStrokeLengthThreshold">130.0</item>
+	</style>
+
+	<!-- Two rows styles -->
+
+	<style name="VerticalSlideKeyboardStyle" parent="@style/KeyboardStyle">
+		<item name="android:keyWidth">23%p</item>
+		<item name="android:keyHeight">75dip</item>
+	</style>
+	<style name="HorizontalSlideKeyboardStyle" parent="@style/KeyboardStyle">
+		<item name="android:keyWidth">19%p</item>
+		<item name="android:keyHeight">75dip</item>
+	</style>
+	<style name="KeyPreviewStyle" parent="@android:style/Widget.TextView">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">80dip</item>
+		<item name="android:textSize">30dip</item> 
+		<item name="android:textColor">#d9d9d9</item>
+		<item name="android:minWidth">32dip</item>
+		<item name="android:gravity">center</item>
+		<item name="android:background">@drawable/keyboard_key_feedback</item>
+	</style>
+</resources>

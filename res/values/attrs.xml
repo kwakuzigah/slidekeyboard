@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="SlideKeyboardView">
+		<attr name="android:keyBackground" />
+		<attr name="android:keyPreviewLayout" />
+		<attr name="android:keyPreviewOffset" />
+		<attr name="android:labelTextSize" />
+		<attr name="android:keyTextSize" />
+		<attr name="android:keyTextColor" />
+		<attr name="android:verticalCorrection" />
+		<attr name="android:popupLayout" />
+		<attr name="android:shadowColor" />
+		<attr name="android:shadowRadius" />
+		<attr name="android:keyPreviewHeight" />
+		<attr name="android:textStyle" />
+		<attr name="figureStyle">
+			<flag name="normal" value="0" />
+			<flag name="octogonal" value="1" />
+		</attr>
+		<attr name="lineStyle">
+			<flag name="none" value="0" />
+			<flag name="normal" value="1" />
+			<flag name="oblique" value="2" />
+		</attr>
+		<attr name="centerTextColor" format="reference|color" />
+		<attr name="temporaryBackgroundColor" format="reference|color" />
+		<attr name="permanentBackgroundColor" format="reference|color" />
+		<attr name="leaveSpaceWhenNoLetter" format="boolean" />
+	</declare-styleable>
+	<declare-styleable name="SlideKeyboardRow">
+		<attr name="android:horizontalGap" />
+		<attr name="android:keyHeight" />
+		<attr name="android:keyWidth" />
+		<attr name="android:keyboardMode" />
+		<attr name="android:rowEdgeFlags" />
+		<attr name="android:verticalGap" />
+	</declare-styleable>
+	<declare-styleable name="SlideKeyboardKey">
+		<attr name="defaultKey">
+			<flag name="center" value="0" />
+			<flag name="top" value="1" />
+			<flag name="bottom" value="2" />
+			<flag name="left" value="3" />
+			<flag name="right" value="4" />
+		</attr>
+		<attr name="android:codes" />
+		<attr name="codesTop" format="integer|string" />
+		<attr name="codesBottom" format="integer|string" />
+		<attr name="codesLeft" format="integer|string" />
+		<attr name="codesRight" format="integer|string" />
+		<attr name="android:horizontalGap" />
+		<attr name="android:iconPreview" />
+		<attr name="iconPreviewTop" format="reference" />
+		<attr name="iconPreviewBottom" format="reference" />
+		<attr name="iconPreviewLeft" format="reference" />
+		<attr name="iconPreviewRight" format="reference" />
+		<attr name="android:isModifier" />
+		<attr name="android:isRepeatable" />
+		<attr name="isRepeatableTop" format="boolean" />
+		<attr name="isRepeatableBottom" format="boolean" />
+		<attr name="isRepeatableLeft" format="boolean" />
+		<attr name="isRepeatableRight" format="boolean" />
+		<attr name="android:isSticky" />
+		<attr name="android:keyEdgeFlags" />
+		<attr name="android:keyHeight" />
+		<attr name="android:keyIcon" />
+		<attr name="keyIconTop" format="string" />
+		<attr name="keyIconBottom" format="string" />
+		<attr name="keyIconLeft" format="string" />
+		<attr name="keyIconRight" format="string" />
+		<attr name="android:keyLabel" />
+		<attr name="keyLabelTop" format="string" />
+		<attr name="keyLabelBottom" format="string" />
+		<attr name="keyLabelLeft" format="string" />
+		<attr name="keyLabelRight" format="string" />
+		<attr name="android:keyOutputText" />
+		<attr name="keyOutputTextTop" format="string" />
+		<attr name="keyOutputTextBottom" format="string" />
+		<attr name="keyOutputTextLeft" format="string" />
+		<attr name="keyOutputTextRight" format="string" />
+		<attr name="android:keyWidth" />
+		<attr name="android:popupCharacters" />
+		<attr name="android:popupKeyboard" />
+		<attr name="popupKeyboardTop" format="reference" />
+		<attr name="popupKeyboardBottom" format="reference" />
+		<attr name="popupKeyboardLeft" format="reference" />
+		<attr name="popupKeyboardRight" format="reference" />
+		<attr name="keyboard" format="string" />
+		<attr name="keyboardTop" format="string" />
+		<attr name="keyboardBottom" format="string" />
+		<attr name="keyboardLeft" format="string" />
+		<attr name="keyboardRight" format="string" />
+	</declare-styleable>
+	<declare-styleable name="SlideKeyboard">
+		<attr name="fillScreenWidth" format="boolean" />
+		<attr name="android:horizontalGap" />
+		<attr name="android:keyHeight" />
+		<attr name="android:keyWidth" />
+		<attr name="android:verticalGap" />
+	</declare-styleable>
+</resources>

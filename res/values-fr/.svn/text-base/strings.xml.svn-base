@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Slide Keyboard 2</string>
+	<string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;
+	</string>
+	<string name="sentence_separators">.,;:!?</string>
+	<!-- Labels on soft keys -->
+	<string name="label_go_key">Terminé</string>
+	<string name="label_next_key">Suivant</string>
+	<string name="label_send_key">Envoyer</string>
+
+
+	<string name="slidekeyboard_settings">"Paramètres de Slide Keyboard 2"</string>
+	<string name="vibrate_on_keypress">"Vibrer à chaque touche"</string>
+	<string name="vibrate_on_keypress_summary">"Vibre à chaque fois qu'une touche est pressée"</string>
+	<string name="sound_on_keypress">"Son à chaque touche"</string>
+	<string name="sound_on_keypress_summary">"Joue un son à chaque fois qu'une touche est pressée"</string>
+	<string name="hit_correction">"Corriger les fautes de frappe"</string>
+	<string name="hit_correction_summary">"Activer la correction des erreurs de saisie"
+	</string>
+	<string name="hit_correction_land">"Erreurs de saisie en mode paysage"</string>
+	<string name="hit_correction_land_summary">"Activer la correction des erreurs de saisie"
+	</string>
+	<string name="auto_correction">"Saisie prédictive"</string>
+	<string name="auto_correction_summary">"Corriger automatiquement le mot précédent"
+	</string>
+	<string name="prediction">"Saisie prédictive"</string>
+	<string name="prediction_category">"Paramètres de la saisie prédictive"</string>
+	<string name="prediction_summary">"Activer la saisie semi-automatique"</string>
+	<string name="auto_complete_dialog_title">"Saisie semi-automatique"</string>
+	<string name="prediction_landscape">"Agrandir le champ de texte"</string>
+	<string name="prediction_landscape_summary">"Masquer la saisie prédictive en mode paysage"
+	</string>
+	<string name="auto_cap">"Majuscules automatiques"</string>
+	<string name="auto_cap_summary">"Mets en majuscule la première lettre de chaque phrase"</string>
+	<string name="sensitivity">"Sensibilité de la détection du glissé"</string>
+	<string name="sensitivity_summary">"Définit la sensibilité de détection lors d'un glissé du doigt"</string>
+	<string-array name="sensitivity_labels">
+		<item>Très faible</item>
+		<item>Faible</item>
+		<item>Normale</item>
+		<item>Grande</item>
+		<item>Très grande</item>
+	</string-array>
+	<string name="auto_punctuate">"Ponctuation automatique"</string>
+	<!--
+		no translation found for auto_punctuate_summary (6589441565817502132)
+
+-->
+	<skip />
+	<string name="quick_fixes">"Corrections rapides"</string>
+	<string name="quick_fixes_summary">"Corrige les fautes de frappe courantes"</string>
+	<string name="show_suggestions">"Afficher les suggestions"</string>
+	<string name="show_suggestions_summary">"Afficher les suggestions de terme lors de la saisie"</string>
+	<string name="auto_complete">"Saisie semi-automatique"</string>
+	<string name="auto_complete_summary">"La barre d\'espace et la ponctuation insèrent les termes en surbrillance."</string>
+	<string name="auto_add_dictionary">Ajout automatique au dictionnaire</string>
+	<string name="auto_add_dictionary_summary">"Ajoute automatiquement des nouveaux mots au dictionnaire"</string>
+	<string name="gesture_shortcuts">"Raccourcis avec gestes"</string>
+	<string name="gesture_shortcuts_summary">Active la reconnaissance de gestes (pour Android 1.6 ou plus)</string>
+
+	<string name="delete">Supprimer</string>
+	<string name="from_user_dictionary">du dictionnaire utilisateur</string>
+	<string name="cancel">Annuler</string>
+
+	<string name="keyboard_skin">Skin du clavier</string>
+	<string name="keyboard_skin_summary">"Skin utilisé pour modifier l'aspect du clavier"</string>
+	<string name="keyboard_style">Style du clavier</string>
+	<string name="keyboard_style_summary">Standard ou de type ordinateur</string>
+	<string name="keyboard_type">Type de clavier</string>
+	<string name="keyboard_type_summary">Alphabétique, azerty, qwerty ou dvorak</string>
+
+	<string-array name="keyboard_types">
+		<item>Alphabétique</item>
+		<item>Azerty</item>
+		<item>Qwerty</item>
+		<item>Dvorak</item>
+	</string-array>
+
+	<string name="alphabetic">Alphabétique</string>
+	<string name="azerty">Azerty</string>
+	<string name="qwerty">Qwerty</string>
+	<string name="dvorak">Dvorak</string>
+
+	<string name="repetition_interval">Intervalle de répétition</string>
+	<string name="repetition_interval_summary">"Définit l'intervalle de répétition entre deux lettres lorsque la touche est maintenue"</string>
+
+	<string-array name="repetition_interval_labels">
+		<item>Lent</item>
+		<item>Normale</item>
+		<item>Rapide</item>
+	</string-array>
+
+	<string name="longpress_timeout">"Temps d'attente des minis-claviers"</string>
+	<string name="longpress_timeout_summary">"Définit le temps d'attente avant l'affichage des minis-claviers en maintenant une touche"</string>
+
+	<string-array name="longpress_timeout_labels">
+		<item>Lent</item>
+		<item>Normale</item>
+		<item>Rapide</item>
+		<item>Immédiat</item>
+	</string-array>
+
+
+	<!--
+		no translation found for prediction_modes_values:0
+		(579944677836100459)
+
+-->
+	<!--
+		no translation found for prediction_modes_values:1
+		(7214414132844804570)
+
+-->
+	<!--
+		no translation found for prediction_modes_values:2
+		(6678546276084314171)
+
+-->
+	<string name="alternates_for_a">"àáâãäåæ"</string>
+	<string name="alternates_for_e">"èéêë"</string>
+	<string name="alternates_for_i">"ìíîï"</string>
+	<string name="alternates_for_o">"òóôõöœø"</string>
+	<string name="alternates_for_u">"ùúûü"</string>
+	<string name="alternates_for_s">"§ß"</string>
+	<string name="alternates_for_n">"ñ"</string>
+	<string name="alternates_for_c">"ç"</string>
+	<string name="alternates_for_y">"ýÿ"</string>
+	<!-- no translation found for alternates_for_z (8206774143334512268) -->
+	<skip />
+
+	<string name="settings">Param.</string>
+	<string name="cut">Couper</string>
+	<string name="copy">Copier</string>
+	<string name="paste">Coller</string>
+	<string name="select">Sélection</string>
+	<string name="select_all">Sél. tout</string>
+	<string name="contact">Contact</string>
+	<string name="person">Personne</string>
+	<string name="phone">Téléphone</string>
+	<string name="phone_v2">Téléphone 2</string>
+	<string name="address">Adresse</string>
+	<string name="address_v2">Adresse 2</string>
+	<string name="choose_your_skin">Choississez le skin du clavier :</string>
+	<string name="choose_your_type">Choississez le type du clavier :</string>
+	<string name="settings_can_be_changed_later">Vous pouvez le changer plus tard dans les
+		paramètres</string>
+
+	<string name="display_toolbar">"Afficher la barre d'outils"</string>
+	<string name="display_toolbar_summary">"Affiche la barre d'outils en dessous du clavier"</string>
+	
+	<string name="display_key_preview">"Afficher un aperçu de la touche"</string>
+	<string name="display_key_preview_summary">"Afficher un aperçu de la touche quand elle est pressée"</string>
+	
+	<string name="use_temporary_switch">"Activer le changement temporaire de clavier"</string>
+	<string name="use_temporary_switch_summary">"Une pression sur la touche shift ou de changement de clavier pour un changement temporaire, une longue pression pour un changement permanent"</string>
+	
+	<string name="dictionary">Dictionnaire</string>
+	<string name="get_dictionaries">"N'oubliez pas de télécharger un dictionnaire de langue à partir du marché !!!"</string>
+	<string name="get_dictionaries_from_market">Récupérer les dictionnaires</string>
+	<string name="get_skins_from_market">Récupérer les skins</string>
+	<string name="next">Suivant</string>
+	<string name="launcher_explanation">"Avant de pouvoir utiliser Slide Keyboard, vous devez faire DEUX choses :\n
+1. Allez dans les paramètres 'Par. régionaux et texte' ('Langue et clavier' pour Android 2.0) et sélectionnez Slide Keyboard.\n
+2. Faites un click long dans n'importe quelle zone de texte éditable, sélectionnez 'Mode de saisie' dans le menu contextuel, puis choisissez Slide Keyboard.\n
+Voila, Slide Keyboard devrait apparaître à la place du clavier standard.\n
+N'oubliez pas de parcourir les paramètres pour customizer l'application et vous pouvez télécharger les skins à partir du marché en cliquant sur ce bouton."
+	 </string>
+	<string name="display_settings">"Afficher les paramètres"</string>
+	<string name="language">Langue</string>
+	<string name="language_summary">Langue utilisée pour la suggestion des mots (si un dictionnaire est installé)</string>
+	<string name="default_skin">Skin par défaut</string>
+	<string name="how_does_it_work">"Comment ça marche ?"</string>
+	<string name="how_does_it_work_explanation">"	Slide Keyboard propose une nouvelle méthode pour taper des lettres.
+	Selon le skin que vous utilisez, chaque touche peut avoir de 1 à 5 lettres.\n
+	Pour taper des lettres se trouvant sur les côtés, touchez le bouton, maintenez pressé et glisssez votre doigt dans la direction de la lettre.\n
+	Par exemple, sur cette touche, si vous voulez tapez z, touchez le bouton et glissez votre doigt vers le haut :"</string>
+	<string name="if_you_dont_like">"	Le skin par défaut propose 5 lettres sur chaque bouton. \n
+	Si vous voulez revenir à une méthode plus classique et profiter des fonctionnalités uniques de Slide Keyboard, téléchargez un skin sur l'Android market comme le skin Classique ou créer votre propre skin avec SK Skin Creator téléchargeable sur www.asigbe.com"</string>
+	<string name="done">Done</string>
+</resources>

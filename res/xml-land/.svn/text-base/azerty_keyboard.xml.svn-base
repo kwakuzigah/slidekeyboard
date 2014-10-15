@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<com.asigbe.slidekeyboardpro.SlideKeyboardView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:asigbe="http://schemas.android.com/apk/res/com.asigbe.slidekeyboardpro" style="@style/HorizontalSlideKeyboardStyle">
+<Row>
+<Key android:keyLabel="q" asigbe:keyLabelBottom="s" asigbe:keyLabelLeft="a" asigbe:keyLabelRight="e" asigbe:keyLabelTop="z"/>
+<Key android:keyLabel="d" asigbe:keyLabelBottom="f" asigbe:keyLabelLeft="r" asigbe:keyLabelRight="y" asigbe:keyLabelTop="t"/>
+<Key android:keyLabel="g" asigbe:keyLabelBottom="h" asigbe:keyLabelLeft="u" asigbe:keyLabelRight="o" asigbe:keyLabelTop="i"/>
+<Key android:codes="-5" android:iconPreview="@drawable/symboledeletefeedback" android:isRepeatable="true" android:keyIcon="@drawable/symboledelete" asigbe:keyLabelBottom="m" asigbe:keyLabelLeft="k" asigbe:keyLabelRight="l" asigbe:keyLabelTop="p"/>
+<Key android:keyLabel="2" asigbe:keyLabelBottom="3" asigbe:keyLabelLeft="0" asigbe:keyLabelRight="4" asigbe:keyLabelTop="1"/>
+</Row>
+<Row>
+<Key android:codes="32" android:iconPreview="@drawable/symbolespacefeedback" android:keyIcon="@drawable/symbolespace" asigbe:codesBottom="-11" asigbe:isRepeatableBottom="false" asigbe:keyLabelBottom="SYM" asigbe:keyLabelLeft="-" asigbe:keyLabelRight="x" asigbe:keyLabelTop="w" asigbe:keyboardBottom="azerty_keyboard_symbols"/>
+<Key android:keyLabel="b" asigbe:keyLabelBottom="n" asigbe:keyLabelLeft="c" asigbe:keyLabelRight=":" asigbe:keyLabelTop="v"/>
+<Key android:keyLabel=";" asigbe:keyLabelBottom="." asigbe:keyLabelLeft="," asigbe:keyLabelRight="\?" asigbe:keyLabelTop="j"/>
+<Key android:keyLabel="!" asigbe:codesLeft="10" asigbe:codesTop="-1" asigbe:iconPreviewLeft="@drawable/symbolereturnfeedback" asigbe:iconPreviewTop="@drawable/symboleshiftfeedback" asigbe:keyIconLeft="@drawable/symbolereturn" asigbe:keyIconTop="@drawable/symboleshift" asigbe:keyLabelBottom="'" asigbe:keyLabelRight="&quot;"/>
+<Key android:keyLabel="7" asigbe:keyLabelBottom="8" asigbe:keyLabelLeft="5" asigbe:keyLabelRight="9" asigbe:keyLabelTop="6"/>
+</Row>
+</com.asigbe.slidekeyboardpro.SlideKeyboardView>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/slidekeyboard/!svn/ver/152/trunk/src/com/asigbe/inputmethod/latin
+END
+Suggest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/slidekeyboard/!svn/ver/109/trunk/src/com/asigbe/inputmethod/latin/Suggest.java
+END
+WordComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/slidekeyboard/!svn/ver/19/trunk/src/com/asigbe/inputmethod/latin/WordComposer.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/slidekeyboard/!svn/ver/45/trunk/src/com/asigbe/inputmethod/latin/Dictionary.java
+END
+TextEntryState.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/slidekeyboard/!svn/ver/62/trunk/src/com/asigbe/inputmethod/latin/TextEntryState.java
+END
+BinaryDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/slidekeyboard/!svn/ver/152/trunk/src/com/asigbe/inputmethod/latin/BinaryDictionary.java
+END

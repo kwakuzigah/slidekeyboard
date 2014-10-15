@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<com.asigbe.slidekeyboardpro.SlideKeyboardView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:asigbe="http://schemas.android.com/apk/res/com.asigbe.slidekeyboardpro" style="@style/VerticalSlideKeyboardStyle">
+<Row>
+<Key android:keyLabel="2" asigbe:keyLabelBottom="3" asigbe:keyLabelLeft="0" asigbe:keyLabelRight="4" asigbe:keyLabelTop="1"/>
+<Key android:keyLabel="7" asigbe:keyLabelBottom="8" asigbe:keyLabelLeft="5" asigbe:keyLabelRight="9" asigbe:keyLabelTop="6"/>
+<Key android:keyLabel="=" asigbe:keyLabelBottom="*" asigbe:keyLabelLeft="+" asigbe:keyLabelRight="/" asigbe:keyLabelTop="-"/>
+<Key android:keyLabel="±" asigbe:keyLabelBottom="," asigbe:keyLabelLeft="." asigbe:keyLabelRight="°" asigbe:keyLabelTop="^"/>
+</Row>
+<Row>
+<Key android:keyLabel="|" asigbe:keyLabelBottom="~" asigbe:keyLabelLeft="{" asigbe:keyLabelRight="}" asigbe:keyLabelTop="`"/>
+<Key android:keyLabel="\@" asigbe:keyLabelBottom="$" asigbe:keyLabelLeft="[" asigbe:keyLabelRight="]" asigbe:keyLabelTop="\#"/>
+<Key android:keyLabel="%" asigbe:keyLabelBottom="-" asigbe:keyLabelLeft="(" asigbe:keyLabelRight=")" asigbe:keyLabelTop="_"/>
+<Key android:codes="-5" android:iconPreview="@drawable/symboledeletefeedback" android:isRepeatable="true" android:keyIcon="@drawable/symboledelete" asigbe:codesBottom="-12" asigbe:isRepeatableBottom="false" asigbe:keyLabelBottom="ABC" asigbe:keyLabelLeft="&lt;" asigbe:keyLabelRight="&gt;" asigbe:keyLabelTop="\\" />
+</Row>
+</com.asigbe.slidekeyboardpro.SlideKeyboardView>

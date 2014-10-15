@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="CustomTheme" parent="android:Theme.Black">
+		<item name="android:keyboardViewStyle">@style/SlideKeyboardStyle
+		</item> 
+		<item name="android:gestureOverlayViewStyle">@style/GestureOverlayStyle
+		</item>
+<!--		<item name="slidingDrawerStyle">@style/GestureOverlayStyle-->
+<!--		</item>--> 
+	</style>
+</resources>

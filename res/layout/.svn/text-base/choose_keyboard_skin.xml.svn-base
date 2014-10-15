@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:asigbe="http://schemas.android.com/apk/res/com.asigbe.slidekeyboardpro"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:orientation="vertical">
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_gravity="center_horizontal"
+		android:text="@string/choose_your_skin" android:layout_marginBottom="20dip" />
+	<ListView android:layout_width="fill_parent" android:id="@+id/skinsListView"
+		android:layout_height="wrap_content" android:orientation="horizontal"
+		android:layout_gravity="center_horizontal"
+		android:layout_marginBottom="20dip">
+	</ListView>
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_gravity="center_horizontal"
+		android:text="@string/settings_can_be_changed_later" android:textSize="12dip" />
+</LinearLayout>

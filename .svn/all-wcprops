@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/slidekeyboard/!svn/ver/160/trunk
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/slidekeyboard/!svn/ver/156/trunk/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/slidekeyboard/!svn/ver/156/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/slidekeyboard/!svn/ver/156/trunk/.project
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/slidekeyboard/!svn/ver/156/trunk/local.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/slidekeyboard/!svn/ver/160/trunk/AndroidManifest.xml
+END
+add-proguard-release.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/slidekeyboard/!svn/ver/156/trunk/add-proguard-release.xml
+END
+procfg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/slidekeyboard/!svn/ver/156/trunk/procfg.txt
+END

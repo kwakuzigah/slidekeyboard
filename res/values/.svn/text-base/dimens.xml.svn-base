@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="toolbar_height">176dip</dimen>
+	<dimen name="toolbar_horizontal_height">175dip</dimen>
+	<dimen name="toolbar_vertical_spacing">5dip</dimen>	
+</resources>

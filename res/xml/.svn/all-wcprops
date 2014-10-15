@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/slidekeyboard/!svn/ver/156/trunk/res/xml
+END
+method.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/slidekeyboard/!svn/ver/156/trunk/res/xml/method.xml
+END
+qwerty_keyboard_symbols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/slidekeyboard/!svn/ver/153/trunk/res/xml/qwerty_keyboard_symbols.xml
+END
+alphabetic_keyboard_symbols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/slidekeyboard/!svn/ver/153/trunk/res/xml/alphabetic_keyboard_symbols.xml
+END
+azerty_keyboard_symbols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/slidekeyboard/!svn/ver/153/trunk/res/xml/azerty_keyboard_symbols.xml
+END
+dvorak_keyboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/slidekeyboard/!svn/ver/153/trunk/res/xml/dvorak_keyboard.xml
+END
+qwerty_keyboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/slidekeyboard/!svn/ver/153/trunk/res/xml/qwerty_keyboard.xml
+END
+alphabetic_keyboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/slidekeyboard/!svn/ver/153/trunk/res/xml/alphabetic_keyboard.xml
+END
+azerty_keyboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/slidekeyboard/!svn/ver/153/trunk/res/xml/azerty_keyboard.xml
+END
+bools.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/slidekeyboard/!svn/ver/19/trunk/res/xml/bools.xml
+END
+dvorak_keyboard_symbols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/slidekeyboard/!svn/ver/153/trunk/res/xml/dvorak_keyboard_symbols.xml
+END
+prefs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/slidekeyboard/!svn/ver/156/trunk/res/xml/prefs.xml
+END

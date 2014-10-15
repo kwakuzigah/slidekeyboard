@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	android:title="@string/slidekeyboard_settings" android:key="english_ime_settings">
+<!--	<ListPreference android:key="language" android:summary="@string/language_summary"-->
+<!--		android:title="@string/language" android:persistent="true" />-->
+
+	<ListPreference android:key="keyboard_skin"
+		android:summary="@string/keyboard_skin_summary" android:title="@string/keyboard_skin"
+		android:persistent="true"/>
+
+	<ListPreference android:key="keyboard_type"
+		android:summary="@string/keyboard_type_summary" android:title="@string/keyboard_type"
+		android:persistent="true" android:defaultValue="2" android:entries="@array/keyboard_types"
+		android:entryValues="@array/keyboard_types_values" />
+
+	<CheckBoxPreference android:key="vibrate_on"
+		android:summary="@string/vibrate_on_keypress_summary" android:title="@string/vibrate_on_keypress"
+		android:persistent="true" />
+
+	<CheckBoxPreference android:key="sound_on"
+		android:summary="@string/sound_on_keypress_summary" android:title="@string/sound_on_keypress"
+		android:persistent="true" />
+
+	<CheckBoxPreference android:key="auto_cap"
+		android:summary="@string/auto_cap_summary" android:title="@string/auto_cap"
+		android:persistent="true" android:defaultValue="true" />
+
+	<ListPreference android:key="sensitivity"
+		android:summary="@string/sensitivity_summary" android:title="@string/sensitivity"
+		android:persistent="true" android:defaultValue="2"
+		android:entries="@array/sensitivity_labels" android:entryValues="@array/sensitivity_values" />
+
+	<ListPreference android:key="repeat_interval"
+		android:summary="@string/repetition_interval_summary" android:title="@string/repetition_interval"
+		android:persistent="true" android:defaultValue="50"
+		android:entries="@array/repetition_labels" android:entryValues="@array/repetition_values" />
+		
+	<ListPreference android:key="longpress_timeout"
+		android:summary="@string/longpress_timeout_summary" android:title="@string/longpress_timeout"
+		android:persistent="true" android:defaultValue="400"
+		android:entries="@array/longpress_timeout_labels"
+		android:entryValues="@array/longpress_timeout_values" />
+
+	<CheckBoxPreference android:key="gesture_shortcuts"
+		android:summary="@string/gesture_shortcuts_summary" android:title="@string/gesture_shortcuts"
+		android:persistent="true" android:defaultValue="true" />
+
+	<CheckBoxPreference android:key="display_toolbar"
+		android:summary="@string/display_toolbar_summary" android:title="@string/display_toolbar"
+		android:persistent="true" android:defaultValue="true" />
+
+	<CheckBoxPreference android:key="display_key_preview"
+		android:summary="@string/display_key_preview_summary" android:title="@string/display_key_preview"
+		android:persistent="true" android:defaultValue="true" />
+
+	<CheckBoxPreference android:key="use_temporary_switch"
+		android:summary="@string/use_temporary_switch_summary" android:title="@string/use_temporary_switch"
+		android:persistent="true" android:defaultValue="false" />
+
+<!--	<PreferenceCategory android:title="@string/prediction_category"-->
+<!--		android:key="prediction_settings">-->
+<!---->
+<!--		<CheckBoxPreference android:key="quick_fixes"-->
+<!--			android:title="@string/quick_fixes" android:summary="@string/quick_fixes_summary"-->
+<!--			android:persistent="true" android:defaultValue="true" />-->
+<!---->
+<!--		<CheckBoxPreference android:key="show_suggestions"-->
+<!--			android:title="@string/show_suggestions" android:summary="@string/show_suggestions_summary"-->
+<!--			android:persistent="true" android:defaultValue="true" />-->
+<!--		<CheckBoxPreference android:key="auto_complete"-->
+<!--			android:title="@string/auto_complete" android:summary="@string/auto_complete_summary"-->
+<!--			android:persistent="true" android:defaultValue="true"-->
+<!--			android:dependency="show_suggestions" />-->
+<!--		<CheckBoxPreference android:key="auto_add_dictionary"-->
+<!--			android:title="@string/auto_add_dictionary" android:summary="@string/auto_add_dictionary_summary"-->
+<!--			android:persistent="true" android:defaultValue="true"-->
+<!--			android:dependency="show_suggestions" />-->
+<!---->
+<!--	</PreferenceCategory>-->
+</PreferenceScreen>

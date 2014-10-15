@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="300dip" android:layout_height="fill_parent"
+	android:orientation="vertical">
+	<TextView android:id="@+id/explanationTextView"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:text="@string/launcher_explanation" android:paddingBottom="10dip">
+	</TextView>
+	<LinearLayout android:layout_width="wrap_content"
+		android:layout_height="fill_parent" android:layout_gravity="center_horizontal"
+		android:orientation="horizontal">
+		<Button android:id="@+id/goToMarketButton"
+			android:layout_width="130dip" android:layout_height="wrap_content"
+			android:text="@string/get_skins_from_market" />
+		<Button android:id="@+id/settingsButton" android:layout_width="130dip"
+			android:layout_height="wrap_content" android:text="@string/display_settings" />
+	</LinearLayout>
+</LinearLayout>
